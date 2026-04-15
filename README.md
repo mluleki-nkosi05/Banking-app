@@ -1,15 +1,33 @@
-# Banking-app
-Created  an online banking app using c#,javascript and css and html . For database used firebase and for security
-features 
-1 has alogin page or a sign up page
-2 it has deshbord page
-3 forgot password page
-how to use it?
-1 .firsly signup using your real Gmail✉️ and set your password🔐
-2 now login using your gmail and password.it will display a message that shows you login succesfully✅ or faild to login✖️
-3  if you forgate your password click forgate password button .it will take you to forgot password page where you will reset you password by entering your email✉️ and the 🔗link to reset your password will be share in your email
-4.now dashbord page shows transactions that you made ,your bankbalance💵 will be displayed to you 
-5 .you can transfare money to other accounts that are using the app and you can also receive money if someone using this app is transfering you a money 💵
-6.you can download your bank statement to see all transctions🔃
+# 💳 Banking App
 
-try it here https://lnkd.in/dn2duMqh
+An online banking application that allows users to manage their accounts, transfer money, and view transaction history.
+
+## 🚀 Features
+- User authentication (Sign up & Login)
+- Password reset via email
+- Dashboard with account balance
+- Money transfer between users
+- Transaction history
+- Downloadable bank statements
+
+## 🛠️ Tech Stack
+- C#
+- JavaScript
+- HTML & CSS
+- Firebase (Database & Authentication)
+
+## 📌 How to Use
+1. Sign up using your Gmail and create a password
+2. Log in with your credentials
+3. If you forget your password, use the reset option
+4. Access your dashboard to:
+   - View balance
+   - Transfer money
+   - Check transactions
+5. Download your bank statement
+
+## 🌐 Live Demo
+👉 https://lnkd.in/dn2duMqh
+
+## 📸 Screenshots
+(Add images here)
