@@ -26,10 +26,17 @@ An online banking application that allows users to manage their accounts, transf
    - Check transactions
 5. Download your bank statement
 
-## 🌐 Live Demo
-👉 https://lnkd.in/dn2duMqh<img width="720" height="1600" alt="Screenshot_20260415-122437" src="https://github.com/user-attachments/assets/e89165b5-edf0-4f3e-8c77-8327f996687f" />
+## 📸 Screenshots 
+login
+<img width="720" height="1600" alt="Screenshot_20260415-122437" src="https://github.com/user-attachments/assets/e89165b5-edf0-4f3e-8c77-8327f996687f" />
+login_succesful✅
 <img width="720" height="1600" alt="Screenshot_20260415-122446" src="https://github.com/user-attachments/assets/f5f0b0ee-6afa-4d4e-a597-018717c394a7" />
 
 
-## 📸 Screenshots
-(Add images here)<img width="720" height="1600" alt="Screenshot_20260415-122458" src="https://github.com/user-attachments/assets/501e30f3-8114-45ec-9616-e746a8f10314" />
+Transactions💱
+<img width="720" height="1600" alt="Screenshot_20260415-122458" src="https://github.com/user-attachments/assets/501e30f3-8114-45ec-9616-e746a8f10314" />
+
+
+## 🌐 Live Demo
+👉 https://lnkd.in/dn2duMqh
+## 🌐 Live Demo
